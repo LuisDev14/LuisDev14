@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Garcia B</h1>
+<h1 align="center">Hi 👋, I'm Luis Garcia</h1>
 <h3 align="center">Passionate about software development, with technologies related to back-end development, mobile development, databases, etc.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisdev14" alt="luisdev14" /></a> </p>
