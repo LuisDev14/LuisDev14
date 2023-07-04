@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisdev14" alt="luisdev14" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile development**
+- 💻 I am currently learning:
+- Android mobile app development with kotlin (Santander y bedu)
+- Developing web applications with react (IECA)
 
 - 📫 How to reach me **gbluisman@gmail.com**
 
