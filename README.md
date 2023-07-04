@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Garcia</h1>
-<h3 align="center">Passionate about software development, with technologies related to back-end development, mobile development, databases, etc.</h3>
+<h3 align="center">Passionate about software development, web technologies, back-end development, mobile development, databases, etc.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisdev14" alt="luisdev14" /></a> </p>
 
 - 💻 I am currently learning:
-- Android mobile app development with kotlin (Santander y bedu)
-- Developing web applications with react (IECA)
+- **Android mobile app development with kotlin** (Santander y bedu)
+- **Developing web applications with React** (IECA)
 
 - 📫 How to reach me **gbluisman@gmail.com**
 
